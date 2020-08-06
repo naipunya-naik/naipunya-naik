@@ -1,13 +1,13 @@
 ### Hi there 👋
 ## I am Naipunya Naik
-
+## 🔭 I’m currently working on to develop Covid-19 USER FRIENDLY Website.
+## 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,PHP.
 <!--
 **naipunya-naik/naipunya-naik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-## 🔭 I’m currently working on to develop Covid-19 Website.
-## 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,PHP.
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
