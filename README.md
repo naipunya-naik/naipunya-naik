@@ -11,7 +11,12 @@
 
 
 
-![Naipunya's github stats](https://github-readme-stats.vercel.app/api?username=naipunya-naik&show_icons=true&theme=radical)
+![Naipunya's github stats](https://github-readme-stats.vercel.app/api?username=naipunya-naik&show_icons=true&theme=radical)<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=naipunya-naik&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/naipunya-naik/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=naipunya-naik&repo=convoychat" />
+</a>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naipunya-naik&show_icons=true&theme=gradient)](https://github.com/naipunya-naik/github-readme-stats)
