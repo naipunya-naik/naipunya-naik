@@ -17,6 +17,8 @@
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<img src="https://dribbble.com/shots/2432051-Welcome-Cel-Animation.gif">
+
 
 <p><img src = "https://media.giphy.com/media/10LKovKon8DENq/giphy.gif"></p>
 
