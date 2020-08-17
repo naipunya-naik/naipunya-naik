@@ -9,5 +9,5 @@
 <a href="https://linkedin.com/in/naipunya-vinod-naik-360087183" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="naipunya-vinod-naik-360087183" height="30" width="30" /></a>
 <a href="https://instagram.com/iamnaipunya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamnaipunya" height="30" width="30" /></a>
 ![Naipunya's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=highcontrast&show_icons=true)(https://github.com/naipunya-naik/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </p>
