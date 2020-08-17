@@ -16,9 +16,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naipunya-naik&show_icons=true&theme=gradient)](https://github.com/naipunya-naik/github-readme-stats)
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
 <img src=https://media2.giphy.com/media/OkJat1YNdoD3W/giphy.gif>
 
-<p><img src = "https://media.giphy.com/media/10LKovKon8DENq/giphy.gif"></p>
 
