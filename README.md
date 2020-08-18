@@ -10,10 +10,10 @@
 <a href="https://instagram.com/iamnaipunya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamnaipunya" height="30" width="30" /></a>
 
 
-![Naipunya's github stats]<img align="left"src=https://github-readme-stats.vercel.app/api?username=naipunya-naik&show_icons=true&theme=radical)<a href="https://github.com/naipunya-naik/github-readme-stats">
+![Naipunya's github stats](https://github-readme-stats.vercel.app/api?username=naipunya-naik&show_icons=true&theme=radical)<a href="https://github.com/naipunya-naik/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naipunya-naik&layout=compact&hide=html&theme=tokyonight" alt="naipunya-naik" /></p>
 
-![Visitors](https://visitors-badge.laobi.icu/badge?page_id=naipunya-naik.naipunya-naik) [![Repos Badge](https://badges.pufler.dev/repos/naipunya-naik)](https://badges.pufler.dev)  [![Years Badge](https://badges.pufler.dev/years/naipunya-naik)](https://badges.pufler.dev)
+ [![Repos Badge](https://badges.pufler.dev/repos/naipunya-naik)](https://badges.pufler.dev)  [![Years Badge](https://badges.pufler.dev/years/naipunya-naik)](https://badges.pufler.dev)
  
 <img src=https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif>
 
