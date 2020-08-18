@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naipunya Naik</h1>
-<h3 align="center"></h3>
+<h3 align="center"> I am a passionate WEB Application Developer from India</h3>
 
 - 🌱 I’m currently learning **Spring, Angular and Laravel**
 
