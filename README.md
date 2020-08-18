@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naipunya Naik</h1>
 <h1 align="center">🤩Pleasure to Meet you!🤩</h1>
-<h3 align="center"> I am a passionate Android Application Developerfrom India</h3>
+<h3 align="center"> I am a passionate Android Application Developer from India!!</h3>
 
 - 🌱 I’m currently learning **Spring, Angular and Laravel and Android Development**
 
@@ -12,7 +12,7 @@
 
 
 ![Naipunya's github stats](https://github-readme-stats.vercel.app/api?username=naipunya-naik&show_icons=true&theme=radical)<a href="https://github.com/naipunya-naik/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naipunya-naik&layout=compact&hide=html&theme=tokyonight" alt="naipunya-naik" /></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naipunya-naik&layout=compact&hide=html&theme=tokyonight" alt="naipunya-naik" /></p>
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=naipunya-naik.naipunya-naik) 
  [![Repos Badge](https://badges.pufler.dev/repos/naipunya-naik)](https://badges.pufler.dev)  [![Years Badge](https://badges.pufler.dev/years/naipunya-naik)](https://badges.pufler.dev)
