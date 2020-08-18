@@ -16,6 +16,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naipunya-naik&layout=compact&hide=html&theme=tokyonight" alt="naipunya-naik" /></p>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=naipunya-naik.naipunya-naik) [![Repos Badge](https://badges.pufler.dev/repos/naipunya-naik)](https://badges.pufler.dev)  [![Years Badge](https://badges.pufler.dev/years/naipunya-naik)](https://badges.pufler.dev)
  
-<img src=https://media2.giphy.com/media/OkJat1YNdoD3W/giphy.gif>
+<img src=https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif>
 
 
