@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naipunya Naik</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🌱 I’m currently learning **PHP,JAVASCRIPT, SPRING, LARAVEL,DJANGO**
+- 🌱 I’m currently learning ****
 
 - 📫 How to reach me **naipunyavnaik@gmail.com**
 
@@ -15,8 +15,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naipunya-naik&show_icons=true&theme=gradient)](https://github.com/naipunya-naik/github-readme-stats)
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=naipunya-naik&show_icons=true&theme=tokyonight" alt="naipunya-naik" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naipunya-naik&layout=compact&hide=html&theme=tokyonight" alt="naipunya-naik" /></p>
 
-
+<em> Welcome to My Github Page </em>
 <img src=https://media2.giphy.com/media/OkJat1YNdoD3W/giphy.gif>
 
 
