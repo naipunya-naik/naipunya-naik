@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naipunya Naik</h1>
-<h3 align="center"> I am a passionate WEB Application Developer from India</h3>
+<h3 align="center"> I am a passionate WEB APPLICATION Developer from India</h3>
 
-- 🌱 I’m currently learning **Spring, Angular and Laravel**
+- 🌱 I’m currently learning **Spring, Angular and Laravel and Android Development**
 
 - 📫 How to reach me **naipunyavnaik@gmail.com**
 
@@ -15,7 +15,6 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naipunya-naik&layout=compact&hide=html&theme=tokyonight" alt="naipunya-naik" /></p>
 
-<em><b> Welcome to My Github Page !! :)</em>
 <img src=https://media2.giphy.com/media/OkJat1YNdoD3W/giphy.gif>
 
 
