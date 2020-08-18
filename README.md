@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naipunya Naik</h1>
-<h2 align="center">Nice to Meet you!</h2>
-<h3 align="center"> I am a passionate WEB APPLICATION Developer from India</h3>
+<h2 align="center">🤩Pleasure to Meet you!🤩</h2>
+<h3 align="center"> I am a passionate Android Application Developer from India</h3>
 
 - 🌱 I’m currently learning **Spring, Angular and Laravel and Android Development**
 
