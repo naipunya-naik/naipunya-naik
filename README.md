@@ -15,7 +15,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naipunya-naik&layout=compact&hide=html&theme=tokyonight" alt="naipunya-naik" /></p>
 
-<em> <b> Welcome to My Github Page</em>
+<em><b> Welcome to My Github Page !! :)</em>
 <img src=https://media2.giphy.com/media/OkJat1YNdoD3W/giphy.gif>
 
 
