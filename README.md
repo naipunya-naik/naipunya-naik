@@ -16,7 +16,8 @@
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=naipunya-naik.naipunya-naik) 
  [![Repos Badge](https://badges.pufler.dev/repos/naipunya-naik)](https://badges.pufler.dev)  [![Years Badge](https://badges.pufler.dev/years/naipunya-naik)](https://badges.pufler.dev)
- <em><b> Welcome to My Github Page</em>
+ 
+ <em><b>< alt="Welcome to My Github Page!!"</em>
 <img src=https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif>
 
 
