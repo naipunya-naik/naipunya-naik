@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naipunya Naik</h1>
+<h2 align="center">Nice to Meet you!</h2>
 <h3 align="center"> I am a passionate WEB APPLICATION Developer from India</h3>
 
 - 🌱 I’m currently learning **Spring, Angular and Laravel and Android Development**
@@ -15,7 +16,7 @@
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=naipunya-naik.naipunya-naik) 
  [![Repos Badge](https://badges.pufler.dev/repos/naipunya-naik)](https://badges.pufler.dev)  [![Years Badge](https://badges.pufler.dev/years/naipunya-naik)](https://badges.pufler.dev)
- 
+ <em>Welcome to My Github Page</em>
 <img src=https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif>
 
 
