@@ -2,7 +2,7 @@
 <h1 align="center">🤩Pleasure to Meet you!🤩</h1>
 <h3 align="center"> I am a passionate Web & Android Application Developer from India!!</h3>
 
-- 🌱 I’m currently learning **Spring, Angular,Laravel & Android Development**
+- 🌱 I’m currently learning **FrontEnd Development & Android Development**
 
 - 📫 How to reach me **naipunyavnaik@gmail.com**
 
